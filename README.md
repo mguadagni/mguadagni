@@ -17,7 +17,9 @@
 ### Github Stats
 <center>![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mguadagni&show_icons=true&theme=merko) ![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mguadagni&show_icons=true&theme=synthwave)</center>
 
-
+<p align="center">
+    Your content
+</p>
 
 <!--
 **mguadagni/mguadagni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
