@@ -13,6 +13,8 @@
 ### ⚡Besides coding, I enjoy...
 
 
+
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mguadagni&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> ![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mguadagni&show_icons=true&theme=synthwave)
 
 
