@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h>Welcome to my Github!</h>
+Welcome to my Github!
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${mguadagni}.${mguadagni})
 
