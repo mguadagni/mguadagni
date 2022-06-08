@@ -1,12 +1,10 @@
-## Hi there, I'm Mike 👋
-
-## Welcome to my Github!
+## Hi there, I'm Mike 👋 Welcome to my Github!
 
 ### 📫 How to reach me:
 - Email: guadagnimichael@gmail.com
 - Phone Number: (401) 598-6003
 
-#### <u>About Me</u>
+### <u>About Me</u>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mguadagni&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
