@@ -15,8 +15,9 @@
 ####
 
 ### Github Stats
+<center>
 ![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mguadagni&show_icons=true&theme=merko) ![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mguadagni&show_icons=true&theme=synthwave)
-
+ </center>
 
 
 <!--
