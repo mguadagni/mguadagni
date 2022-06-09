@@ -16,7 +16,6 @@
 
 ### Github Stats
 ![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mguadagni&show_icons=true&theme=merko) 
-![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mguadagni&show_icons=true&theme=synthwave)
 [![Mike's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mguadagni&theme=blue-green)](https://github.com/mguadagni/github-readme-stats)
 
 <!--
