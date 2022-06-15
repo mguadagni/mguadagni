@@ -6,7 +6,7 @@
 - [LinkedIn](https://www.linkedin.com/in/michael-guadagni-041461184/)
 
 ### About Me
-<p> Hello! My name is Mike Guadagni and I am currently working at General Dynamics Electric Boat as a Mechanical Engineer. In addition, I am taking classes at CareerDevs, a software engineering development program. I am a quick learner and a great problem-solver. Eventually, I would love to follow my passion in life and become a backend developer. </p>
+<p> Hello! My name is Mike Guadagni and I am currently working at General Dynamics Electric Boat as a Mechanical Engineer. In addition, I am taking classes at CareerDevs, a software engineering development program. I am a quick learner and a great problem-solver. Eventually, I would love to follow my passion in life and become a software developer. </p>
 
 ### 🌱 I’m currently learning ...
 - Using Java to work with API's and MySQL databases. On the side, I am actively completing algorithms within Java, Javascript, and Python. 
