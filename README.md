@@ -3,7 +3,6 @@
 ### 📫 How to reach me:
 - Email: guadagnimichael@gmail.com
 - Phone Number: (401) 598-6003
-- [LinkedIn](https://www.linkedin.com/in/michael-guadagni-041461184/)
 
 ### Connect with me on...
 <p>
