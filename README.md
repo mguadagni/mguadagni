@@ -5,6 +5,10 @@
 - Phone Number: (401) 598-6003
 - [LinkedIn](https://www.linkedin.com/in/michael-guadagni-041461184/)
 
+## Connect with on...
+<p>https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white</p>
+<p>https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white</p>
+
 ### About Me
 <p> Hello! My name is Mike Guadagni and I am currently working at General Dynamics Electric Boat as a Mechanical Engineer. In addition, I am taking classes at CareerDevs, a software engineering development program. I am a quick learner and a great problem-solver. Eventually, I would love to follow my passion in life and become a developer. </p>
 
