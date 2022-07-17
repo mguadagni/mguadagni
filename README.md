@@ -20,7 +20,7 @@
 <p> Hello! My name is Mike Guadagni and I am currently working at General Dynamics Electric Boat as a Mechanical Engineer. In addition, I am taking classes at CareerDevs, a software engineering development program. I am a quick learner and a great problem-solver. Eventually, I would love to follow my passion in life and become a developer. </p>
 
 ### 🌱 I’m currently learning ...
-- Using Java to work with API's and MySQL databases. On the side, I am actively completing algorithms within Java, Javascript, and Python. 
+- Creating Full Stack projects. Using Java and SpringBoot to work with API's and MySQL databases, as well as using React for Front End development. On the side, I am actively completing algorithms within Java, Javascript, and Python. 
 
 ### ⚡Besides coding, I enjoy...
 - Staying active and being outside. I like to go to the gym, or play sports like basketball with my friends. In addition, I enjoy fishing as a relaxing pastime. 
