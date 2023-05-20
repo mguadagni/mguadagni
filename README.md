@@ -30,10 +30,10 @@ Hello! My name is Mike Guadagni and I am currently working at General Dynamics E
 <ins>CareerDevs:</ins> <br>
 At careerdevs, I learned how to create Full Stack projects. I used Java and SpringBoot to work with API's and MySQL databases, as well as using React for Front End development. In addition, continuously completing algorithms within Java, Javascript, and Python. 
 
-### ⚡Besides coding, I enjoy...
+### ⚡ Besides coding, I enjoy...
 Staying active and being outside. I like to go to the gym, or play sports like basketball with my friends. In addition, I enjoy fishing as a relaxing pastime. 
 
-### Github Stats
+### ✨ Github Stats
 ![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mguadagni&show_icons=true&theme=merko) 
 ![Mike's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mguadagni&theme=blue-green)
 ![Mike's github streak](https://github-readme-streak-stats.herokuapp.com/?user=mguadagni&theme=blue-green)
