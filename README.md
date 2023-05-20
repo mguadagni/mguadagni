@@ -18,11 +18,11 @@
 
 ### About Me
 <p> 
-Hello! My name is Mike Guadagni and I am currently working at General Dynamics Electric Boat as a Software Engineer. In addition, I have taken classes at CareerDevs, a software engineering development program. I am <br> 
-* A detail-oriented, organized and meticulous employee <br>
-* A Enthusiastic team player ready to contribute to  company success <br>
-* A Complex problem-solver with analytical and driven mindset <br> 
-* Dedicated to achieving demanding objectives according to schedules while producing work that exceeds expectations 
+Hello! My name is Mike Guadagni and I am currently working at General Dynamics Electric Boat as a Software Engineer. In addition, I have taken classes at CareerDevs, a software engineering development program. I am: <br> 
+- A detail-oriented, organized and meticulous employee <br>
+- A Enthusiastic team player ready to contribute to  company success <br>
+- A Complex problem-solver with analytical and driven mindset <br> 
+- Dedicated to achieving demanding objectives according to schedules while producing work that exceeds expectations 
 </p>
 
 ### 🌱 I’m currently learning ...
