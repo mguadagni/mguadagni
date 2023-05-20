@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter">
 </p>
 
-### About Me
+### 😄 About Me
 <p> 
 Hello! My name is Mike Guadagni and I am currently working at General Dynamics Electric Boat as a Software Engineer. In addition, I have taken classes at CareerDevs, a software engineering development program. I am: </p> 
  - A detail-oriented, organized and meticulous employee <br>
