@@ -21,7 +21,7 @@
 
 ### 🌱 I’m currently learning ...
 Electric Boat:
-    My main role at EB is to support the software engineering efforts to design, develop, and unit test the software for the COLUMBIA ship control system. I was able to continue the development and maintenance of a software that encompasses a condensed version of the ship control, used for submarine testing and training. Through these, I have gained skills in server-client framework using Ada, C, and UDP networking. In addition, I was able to develop and integrate GUIs using Qt Creator and C++.
+    My main role at EB is to support the software engineering efforts to design, develop, and unit test the software for the COLUMBIA ship control system. I was able to continue the development and maintenance of a software that encompasses a condensed version of the ship control, used for submarine testing and training. Through these, I have gained skills in server-client framework using Ada, C, and UDP networking. In addition, I was able to develop and integrate GUIs using Qt Creator and C++. <br>
 CareerDevs:
 Creating Full Stack projects. Using Java and SpringBoot to work with API's and MySQL databases, as well as using React for Front End development. In addition, continuously completing algorithms within Java, Javascript, and Python. 
 
