@@ -17,10 +17,13 @@
 </p>
 
 ### About Me
-<p> Hello! My name is Mike Guadagni and I am currently working at General Dynamics Electric Boat as a Mechanical Engineer. In addition, I am taking classes at CareerDevs, a software engineering development program. I am a quick learner and a great problem-solver. Eventually, I would love to follow my passion in life and become a developer. </p>
+<p> Hello! My name is Mike Guadagni and I am currently working at General Dynamics Electric Boat as a Software Engineer. In addition, I have taken classes at CareerDevs, a software engineering development program. I am a quick learner and a great problem-solver. </p>
 
 ### 🌱 I’m currently learning ...
-- Creating Full Stack projects. Using Java and SpringBoot to work with API's and MySQL databases, as well as using React for Front End development. On the side, I am actively completing algorithms within Java, Javascript, and Python. 
+Electric Boat:
+    My main role at EB is to support the software engineering efforts to design, develop, and unit test the software for the COLUMBIA ship control system. I was able to continue the development and maintenance of a software that encompasses a condensed version of the ship control, used for submarine testing and training. Through these, I have gained skills in server-client framework using Ada, C, and UDP networking. In addition, I was able to develop and integrate GUIs using Qt Creator and C++.
+CareerDevs:
+Creating Full Stack projects. Using Java and SpringBoot to work with API's and MySQL databases, as well as using React for Front End development. In addition, continuously completing algorithms within Java, Javascript, and Python. 
 
 ### ⚡Besides coding, I enjoy...
 - Staying active and being outside. I like to go to the gym, or play sports like basketball with my friends. In addition, I enjoy fishing as a relaxing pastime. 
