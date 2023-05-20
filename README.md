@@ -23,7 +23,7 @@
 <ins>Electric Boat:</ins> <br>
     My main role at EB is to support the software engineering efforts to design, develop, and unit test the software for the COLUMBIA ship control system. I was able to continue the development and maintenance of a software that encompasses a condensed version of the ship control, used for submarine testing and training. Through these, I have gained skills in server-client framework using Ada, C, and UDP networking. In addition, I was able to develop and integrate GUIs using Qt Creator and C++. <br>
 <ins>CareerDevs:</ins> <br>
-Creating Full Stack projects. Using Java and SpringBoot to work with API's and MySQL databases, as well as using React for Front End development. In addition, continuously completing algorithms within Java, Javascript, and Python. 
+At careerdevs, I learned how to create Full Stack projects. I used Java and SpringBoot to work with API's and MySQL databases, as well as using React for Front End development. In addition, continuously completing algorithms within Java, Javascript, and Python. 
 
 ### ⚡Besides coding, I enjoy...
 - Staying active and being outside. I like to go to the gym, or play sports like basketball with my friends. In addition, I enjoy fishing as a relaxing pastime. 
